@@ -22,4 +22,14 @@ A decentralized system for managing electronic health records using blockchain a
 
 # Getting the DApp running
 
+# Configuration
 
+1. Ganache
+
+"." Open Ganache and click on settings in the top right corner.
+Under Server tab:
+Set Hostname to 127.0.0.1 -lo
+Set Port Number to 8545
+Enable Automine
+Under Accounts & Keys tab:
+Enable Autogenerate HD Mnemonic
