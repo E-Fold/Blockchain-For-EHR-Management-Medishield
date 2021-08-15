@@ -90,7 +90,7 @@ contract Medishield {
     }
 
 
-    //must be called by healthcare
+    //must be called by healthcare.
     function submitfile(address paddr, uint _diagnosis, string memory  _hash) public {
         bool patientFound = false;
         for(uint i = 0;i<healthcareInfo[msg.sender].patientAccessList.length;i++){
