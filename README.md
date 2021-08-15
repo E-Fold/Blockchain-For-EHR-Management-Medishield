@@ -6,4 +6,10 @@ The projects requires NodeJS and npm to work. Instructions to install all other 
 
 #Ganache
 
-Go to [Ganache homepage](https://www.trufflesuite.com/ganache) and download.
+1. Go to [Ganache homepage](https://www.trufflesuite.com/ganache) and download.
+
+# IPFS
+
+1. Go to [go-ipfs](https://dist.ipfs.io/#go-ipfs) and install go ipfs.  Using IPFS through the command-line allows you to do everything that IPFS Desktop can do, but at    a more granular level since you can specify which commands to run.
+
+
