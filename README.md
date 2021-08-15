@@ -25,10 +25,10 @@ A decentralized system for managing electronic health records using blockchain a
 # Configuration
 
 1. Ganache
- 1. Open Ganache and click on settings in the top right corner.
- 2. Under Server tab:
+ * Open Ganache and click on settings in the top right corner.
+ * Under Server tab:
     * Set Hostname to 127.0.0.1 -lo
-    Set Port Number to 8545
-    Enable Automine
- 3. Under Accounts & Keys tab:
-    Enable Autogenerate HD Mnemonic
+    * Set Port Number to 8545
+    * Enable Automine
+ *  Under Accounts & Keys tab:
+    * Enable Autogenerate HD Mnemonic
