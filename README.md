@@ -1,6 +1,6 @@
 https://youtu.be/UJet5UYUOfY
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UJet5UYUOfY/o.jpg)](https://www.youtube.com/watch?v=UJet5UYUOfY)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/UJet5UYUOfY/0.png)](https://www.youtube.com/watch?v=UJet5UYUOfY)
 
 
 # Blockchain-For-EHR-Management-Medishield
