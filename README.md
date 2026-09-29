@@ -46,5 +46,5 @@ A decentralized system for managing electronic health records using blockchain a
      * Enable Autogenerate HD Mnemonic
 
 2. Metamask
-
+N/A
    
